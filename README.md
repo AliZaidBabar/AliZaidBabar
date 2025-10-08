@@ -8,7 +8,6 @@
   <a href="https://github.com/AliZaidBabar" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
   </a>
-  <p>email: alizaidbaber@gmail.com</p>
 </p>
 
 ---
@@ -64,6 +63,8 @@ Git & GitHub • Firebase • Webhooks • API Integrations
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/alizaidbabar/)  
 - 🧰 [GitHub](https://github.com/AliZaidBabar)
+- ✉️ alizaidbaber@gmail.com
+
 
 ---
 
