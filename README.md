@@ -49,9 +49,17 @@ Git & GitHub • Firebase • Webhooks • API Integrations
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliZaidBabar&show_icons=true&theme=tokyonight" alt="Ali's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliZaidBabar&layout=compact&theme=tokyonight" height="165"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=AliZaidBabar&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" 
+    alt="Ali's GitHub stats" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliZaidBabar&layout=compact&theme=tokyonight" 
+    height="165"
+  />
 </p>
+
 
 ---
 
