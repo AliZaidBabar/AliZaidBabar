@@ -49,13 +49,8 @@ Git & GitHub • Firebase • Webhooks • API Integrations
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=AliZaidBabar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" 
-    height="165"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliZaidBabar&layout=compact&theme=tokyonight" height="165"/>
 </p>
-
-
 
 ---
 
