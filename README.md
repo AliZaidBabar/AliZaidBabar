@@ -40,7 +40,7 @@ At **Devaxl** I engineer **[aNinja](https://www.aninja.com/)**, a CRM and busine
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.png">
-  <img src="./assets/stack-dark.png" width="100%" alt="TypeScript, JavaScript, Node.js, Express, Next.js, React, Redux, Tailwind CSS, Firebase, MongoDB, PostgreSQL, GraphQL, Nx, Stripe, Git, Jira">
+  <img src="./assets/stack-dark.png" width="100%" alt="TypeScript, JavaScript, Node.js, Express, Next.js, React, Redux, Tailwind CSS, Firebase, MongoDB, PostgreSQL, MySQL, GraphQL, Stripe, Git, Jira">
 </picture>
 
 <details>
@@ -54,7 +54,7 @@ At **Devaxl** I engineer **[aNinja](https://www.aninja.com/)**, a CRM and busine
 | **Frontend** | React, Next.js, Redux, Tailwind CSS, responsive UI |
 | **Databases** | MongoDB, Firestore, PostgreSQL, MySQL |
 | **Cloud** | Firebase (Authentication, Firestore, Cloud Functions), AWS (working knowledge) |
-| **Architecture** | Nx monorepo, REST API design, real-time data sync, authentication, RBAC, multi-tenant isolation, feature gating |
+| **Architecture** | REST API design, real-time data sync, authentication, RBAC, multi-tenant isolation, feature gating |
 | **Integrations** | Stripe, Twilio, Nylas, Algolia, Meta, WordPress, Zapier |
 | **Workflow** | Git, GitHub, Jira, Agile / Scrum, code review, debugging |
 | **AI-assisted** | Cursor, Claude, Antigravity, OpenAI API |
@@ -77,7 +77,7 @@ At **Devaxl** I engineer **[aNinja](https://www.aninja.com/)**, a CRM and busine
 
 **[aNinja CRM](https://www.aninja.com/)** · Production B2B SaaS  
 CRM for lead management, marketing automation and business communication. Streamed 100K+ lead imports, multi-tenant isolation, role-based access control, Calendly-style booking and AI-powered onboarding.  
-`Next.js` `Node.js` `TypeScript` `Firebase` `Redux` `Nx`
+`Next.js` `Node.js` `TypeScript` `Firebase` `Redux`
 
 **Password Manager** · Web app and Chrome extension  
 LastPass-inspired vault with AES-256 encryption, role-based access, multi-factor authentication (Google, Microsoft, Duo, Email), autofill, a password generator, Emergency Access and dark-web monitoring via Enzoic.  
